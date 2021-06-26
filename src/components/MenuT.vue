@@ -61,6 +61,7 @@ export default {
       ],
     };
   },
+  //
   methods: {
     cardVisibility(item) {
       const filteredItems = this.items.filter((val) => {
