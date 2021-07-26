@@ -7,7 +7,6 @@
 </template>
 
 <script>
-//
 // import Menu from '@/components/Menu.vue'
 import MenuT from '@/components/MenuT.vue'
 import SelectedItems from '@/components/SelectedItems.vue'
